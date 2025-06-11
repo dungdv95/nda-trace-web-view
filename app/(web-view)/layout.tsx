@@ -1,7 +1,7 @@
 import { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "NDA CHAIN CMS",
+  title: "NDA TRACE WEB VIEW",
 };
 
 interface LayoutProps {
